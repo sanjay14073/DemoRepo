@@ -1,2 +1,2 @@
 # DemoRepo
-this repo is used to demonstrate git workflow.Gdsc hacktober workshop example
+this repo is used to demonstrate git workflow.Gdsc hacktober workshop example.
