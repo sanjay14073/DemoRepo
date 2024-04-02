@@ -1,0 +1,17 @@
+{
+  "name": "mlprojjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "danfojs": "^1.1.2",
+    "ml-regression": "^5.0.0",
+    "node-pandas": "^1.0.5"
+  }
+}
